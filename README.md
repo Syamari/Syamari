@@ -1,4 +1,4 @@
-# Syamari(aknych) 🐣
+# Syamari(aknych)
 
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!ようこそ,I'm%20a%20passionate%20web%20developer%20on%20a%20journey!)](https://github.com/kawarimidoll/typograssy)
 
