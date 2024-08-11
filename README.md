@@ -20,4 +20,4 @@
 
 ## 🎨 Project
 
-- [Unexplored Music](https://unexplored-music.com): A web application for managing tasks.
+- [Unexplored Music](https://unexplored-music.com)
