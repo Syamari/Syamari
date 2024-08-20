@@ -8,10 +8,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syamari&theme=tokyonight)
 
-## 📫 Site
-
-- ### [Introduction](https://syamari-intro.vercel.app)
-
 ## 🎨 Project
 
 - ### [Unexplored Music](https://unexplored-music.com)
@@ -21,3 +17,5 @@
 - **Languages**: Ruby, HTML/CSS, JavaScript
 - **Frameworks**: Ruby on Rails, Tailwind CSS
 - **Tools**: Git, Docker, Vite, Fly.io, Vercel, etc
+
+##### [Personal Page](https://syamari-intro.vercel.app)
